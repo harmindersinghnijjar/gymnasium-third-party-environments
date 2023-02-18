@@ -1,1 +1,1 @@
-# gym-giant-hamster-run
+# gymnasium-giant-hamster-run
