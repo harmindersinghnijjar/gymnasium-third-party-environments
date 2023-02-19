@@ -1,3 +1,3 @@
 # gymnasium-giant-hamster-run
 
-# gymnasium-chrome-din
+# gymnasium-chrome-dino
